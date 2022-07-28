@@ -11,3 +11,6 @@
     border-radius: 8px;
     padding: 9px 25px;
 }
+.g-4, .gx-4 {
+    --bs-gutter-x: 15rem; !important
+}
